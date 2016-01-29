@@ -1,0 +1,145 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family:"a"; 
+}
+@font-face{
+	font-family: "a";
+	src:url("../arial.ttf");
+}
+.wai{
+	width:820px;
+	height: 540px;
+	background-color: 	#D3A4FF;
+	margin: 20px auto;
+	box-shadow: 0 0 20px #26004A;
+	border-radius: 5px;
+}
+.head{
+	height: 26px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	background-color: black;
+
+}
+#time{
+	text-align: center;
+	line-height: 26px;
+	color: white;
+	/*padding-top:3px;*/
+}
+.xianshi{
+	width: 97%;
+	height: 110px;
+	background-color: 	#921AFF;
+	margin: 10px auto 0;
+	position: relative;
+	border-radius: 6px;
+	border: 2px solid black;
+}
+.sum{
+	height: 50px;
+	text-align: right;
+	line-height: 50px;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	font-size:4em;
+}
+.li{
+	width: 90px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #E6CAFF;
+	box-shadow: 0 5px 10px #999 ,0 0 8px #fff inset;
+	float: left;
+	float: left;
+	margin:13px 0 0 11px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 22px;
+	cursor: pointer;
+	-webkit-transition:all ease 0.2s;
+}
+.li:active{
+	-webkit-transform:scale(1.1,1.1);
+}
+.color1{
+	background-color: #5B00AE;
+}
+.color2{
+	background-color:#4B0091;
+}
+.shuda{
+
+	height: 110px;
+	float: right;
+	margin-right:10px; 
+	line-height: 110px;
+
+}
+.hengda{
+	width: 190px;
+}
+
+
+
+
+/*-----------竖------------*/
+/*.wai1{
+	width:420px;
+	height: 620px;
+	background-color: 	#D3A4FF;
+	margin: 400px auto;
+}
+.head{
+	height: 26px;
+	background-color: black;
+
+}
+.time{
+	color: white;
+	text-align: center;
+	line-height: 26px;
+}
+.xianshi1{
+	width: 92%;
+}
+.sum{
+	height: 50px;
+	text-align: right;
+	line-height: 50px;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	font-size:4em;
+}
+.li1{
+	width: 85px;
+	height: 60px;
+	border-radius: 5px;
+	background-color: #E6CAFF;
+	box-shadow: 0 5px 10px #999 ,0 0 10px #fff inset;
+	float: left;
+	margin:15px 0 0 15px;
+	text-align: center;
+	line-height: 60px;
+	font-size: 25px;
+	cursor: pointer;
+}
+.color1{
+	background-color: #5B00AE;
+}
+.color2{
+	background-color:#4B0091;
+}
+.shuda1{
+	height: 135px;
+	float: right;
+	margin-right:20px; 
+	line-height: 140px;
+
+}
+.hengda1{
+	width: 185px;
+}*/
